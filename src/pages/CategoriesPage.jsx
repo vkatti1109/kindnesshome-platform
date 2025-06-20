@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Users, Globe, Home, GraduationCap, Stethoscope, TreePine, Utensils, Shield, HandHeart } from 'lucide-react';
+import { Heart, Users, Globe, Home, GraduationCap, Stethoscope, TreePine, Utensils, Shield, Handshake } from 'lucide-react';
 
 export default function CategoriesPage() {
   const categories = [
