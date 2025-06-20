@@ -78,7 +78,7 @@ export default function CategoriesPage() {
       id: 8,
       name: "Community Development",
       description: "Building stronger communities through local initiatives and programs.",
-      icon: HandHeart,
+      icon: Handshake,
       color: "bg-pink-100 text-pink-600",
       organizations: 934,
       totalRaised: "$11.1M",
