@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Users, Globe, Home, GraduationCap, Stethoscope, TreePine, Utensils, Shield, Handshake } from 'lucide-react';
+import { Heart, Users, Globe, Home, GraduationCap, Stethoscope, TreePine, Utensils, Shield } from 'lucide-react';
 
 export default function CategoriesPage() {
   const categories = [
@@ -78,7 +78,7 @@ export default function CategoriesPage() {
       id: 8,
       name: "Community Development",
       description: "Building stronger communities through local initiatives and programs.",
-      icon: Handshake,
+      icon: Users,
       color: "bg-pink-100 text-pink-600",
       organizations: 934,
       totalRaised: "$11.1M",
