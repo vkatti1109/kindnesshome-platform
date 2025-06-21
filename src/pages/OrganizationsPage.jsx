@@ -216,3 +216,5 @@ export default function OrganizationsPage() {
     </div>
   );
 }
+
+export default OrganizationsPage;
