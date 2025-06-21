@@ -249,4 +249,4 @@ export default function CategoriesPage() {
   );
 }
 
-export default CategoriesPage;
+
