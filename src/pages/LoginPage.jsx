@@ -166,4 +166,3 @@ export default function LoginPage() {
   );
 }
 
-export default LoginPage;
