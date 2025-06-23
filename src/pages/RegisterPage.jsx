@@ -30,7 +30,7 @@ export default function RegisterPage() {
 
   const handleGoogleSignup = () => {
     // Redirect to your backend Google OAuth endpoint
-    window.location.href = 'https://kindnesshome-backend.onrender.com';
+    window.location.href = 'https://19hninclmjvp.manus.space/api/oauth/google/login';
   };
 
   return (
