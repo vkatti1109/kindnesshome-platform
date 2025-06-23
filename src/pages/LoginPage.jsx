@@ -24,7 +24,7 @@ export default function LoginPage() {
 
   const handleGoogleLogin = () => {
     // Redirect to your backend Google OAuth endpoint
-    window.location.href = 'https://19hninclmjvp.manus.space/api/oauth/google/login';
+    window.location.href = 'https://kindnesshome-backend.onrender.com/api/oauth/google/login';
   };
 
   return (
